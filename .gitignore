@@ -1,0 +1,11 @@
+# Build artifacts
+/bin/
+coverage.out
+
+# Local environment and credentials
+.env
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
